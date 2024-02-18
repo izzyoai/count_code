@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="LAMP">C:/Users/31510/Desktop/izzyo/images/icons/lamp.png</file>
+    </qresource>
+</RCC>
